@@ -1,0 +1,15 @@
+{
+  "name": "rmrf",
+  "version": "1.0.0",
+  "description": "An implementation of 'rm -rf <file|folder>' cli command",
+  "main": "rmrf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "remove",
+    "delete"
+  ],
+  "author": "",
+  "license": "ISC"
+}
